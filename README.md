@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<a href="#"><img title="HITOMI BOT" src="https://img.shields.io/badge/HITOMI BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LICH BOT" src="https://img.shields.io/badge/LICH BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </div>
 
@@ -28,7 +28,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/TianBot1/Hitomi-MdV1
+git clone https://github.com/ayam196/Hitomi-MdV1
 cd Hitomi-MdV1
 pkg install yarn
 yarn
@@ -51,7 +51,7 @@ npm start
 - [Ovo](https://i.ibb.co/f2h3MDQ/Qris.jpg)
 
 # Youtube
-- https://youtube.com/c/ChristianID99
+- https://youtube.com/c/Reina RBX
 
 # Thanks to
 - rtwone / Irfan
