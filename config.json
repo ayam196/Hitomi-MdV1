@@ -1,21 +1,21 @@
 {
   "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "botName": "Hitomi MD",
+  "ownerName": ["Lich King"],
+  "botName": "Lich MD",
   "hitokey": "HitomiMd",
-  "youtubeOwner": "https://youtube.com/c/ChristianID99",
-  "web": "https://hitomi-rest-api.herokuapp.com/",
+  "youtubeOwner": "https://youtube.com/c/Reina RBX",
+  "web": "https://github.com/ayam196",
   "donasiQris": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
-  "donasiPulsa": "0813-2850-7885",
-  "sb": "➸",
-  "footer": "© Hitomi MD 2022",
-  "fake": "HITOMI MULTI DEVICE",
+  "donasiPulsa": "0858-9291-0131",
+  "sb": "»⟩",
+  "footer": "© LICH MD 2022",
+  "fake": "LICH MULTI DEVICE",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
   "gamewaktu": 90,
   "limitCount": 30,
   "gcount": {
 	"prem": 99999,
-	"user": 20
+	"user": 10
   }
 }
