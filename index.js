@@ -31,14 +31,14 @@ let welcome = JSON.parse(fs.readFileSync('./database/welcome.json'));
 
 function title() {
       console.clear()
-	  console.log(chalk.bold.green(figlet.textSync('HITOMI MD', {
+	  console.log(chalk.bold.green(figlet.textSync('LICH MD', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		verticalLayout: 'default',
 		width: 80,
 		whitespaceBreak: false
 	})))
-	console.log(chalk.red(`\n${chalk.blue('[ Base : Irfan && Created By Christian ID ]')}\n\n${chalk.yellow('Hitomi Bot MD')} : ${chalk.white('WhatsApp Bot Multi Device')}\n${chalk.yellow('Follow Insta Christian')} : ${chalk.white('@chris.tianid')}\n${chalk.yellow('Donasi')} : ${chalk.white('https://i.ibb.co/f2h3MDQ/Qris.jpg')}\n${chalk.yellow('Rest Api')} : ${chalk.white('https://hitomi-rest-api.herokuapp.com/')}\n${chalk.yellow('Youtube')} : ${chalk.white('https://youtube.com/c/ChristianID99')}\n`))
+	console.log(chalk.red(`\n${chalk.blue('[ Base : Irfan && Recode By Reina RBX ]')}\n\n${chalk.yellow('Lichz Botz MD')} : ${chalk.white('WhatsApp Bot Multi Device')}\n${chalk.yellow('Follow Insta Christian')} : ${chalk.white('@chris.tianid')}\n${chalk.yellow('Donasi')} : ${chalk.white('https://i.ibb.co/f2h3MDQ/Qris.jpg')}\n${chalk.yellow('Rest Api')} : ${chalk.white('https://hitomi-rest-api.herokuapp.com/')}\n${chalk.yellow('Youtube')} : ${chalk.white('https://youtube.com/c/ChristianID99')}\n`))
 }
 
 /**
@@ -79,7 +79,7 @@ const connectToWhatsApp = async () => {
             printQRInTerminal: true,
             logger: logg({ level: 'fatal' }),
             auth: state,
-            browser: ["Hitomi Bot Multi Device", "Safari", "3.0"]
+            browser: ["Lichz Bot Multi Device", "Safari", "3.0"]
         })
 	title()
         store.bind(conn.ev)
