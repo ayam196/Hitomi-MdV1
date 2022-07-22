@@ -420,7 +420,8 @@ Haii, aku adalah *${setting.botName}*, Yang bisa membantu anda untuk membuat sti
 ===================
 Thanks To
 - Ifran / Rtwone
-- Christian ID`
+- Christian ID
+- Reina RBX`
 
 conn.sendMessage(from, { caption: caption, image: pp_bot }, {quoted: fdoc})
 break
