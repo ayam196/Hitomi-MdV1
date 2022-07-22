@@ -9,7 +9,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hitomi](https://wa.me/6285921165857)
+* Info Lebih Lanjut, Chat [owner-lich](https://wa.me/6285892910131)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -56,3 +56,5 @@ npm start
 # Thanks to
 - rtwone / Irfan
 - Christian ID
+- Reina RBX
+- ALLAH SWT
