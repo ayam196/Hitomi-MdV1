@@ -24,6 +24,9 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 	
 _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'} 👋*_
 
+- Apa Itu BOT?
+Sistem Otomatis WhatsApp Bot, Yang dapat membantu kamu untuk melakukan sesuatu, mendapatkan data hanya dengan melalui WhatsApp.
+
  *INFO BOT*
  Library : *Baileys-MD*
  Prefix : ( ${prefix} )
